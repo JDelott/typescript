@@ -64,8 +64,8 @@
 // message.toLowerCase();
 // message();
 // console.log("hello world!");
-function greet(person, date) {
-    console.log("Hello ".concat(person, ", today is ").concat(date.toDateString(), "!"));
-}
-greet("Jacob", new Date());
-console.log(greet);
+// function greet(person, date) {
+//     console.log("Hello ".concat(person, ", today is ").concat(date.toDateString(), "!"));
+// }
+// greet("Jacob", new Date());
+// console.log(greet);
